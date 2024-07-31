@@ -1,11 +1,12 @@
-Scope of Project: Primary experimentation on evalution of multilinngual-RAG systems. 
+### Scope of Project
+Primary experimentation on evalution of multilinngual-RAG systems. 
 
-Acknowledgment: The RAG pipeline used for experimentation is based on youtube_rag.ipynb. 
+### Acknowledgment
+The RAG pipeline used for experimentation is based on youtube_rag.ipynb. 
 + Video link: https://youtu.be/BrsocJb-fAo?si=-NrAQ5lF1KYDQoHD 
 + Github Repository:  https://github.com/svpino/youtube-rag 
 
-Languages
-English, Hindi, Bengali
+Languages: English, Hindi, Bengali
 
 Components of RAG system: 
 + LLM, Embeddings - OpenAI 
